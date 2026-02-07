@@ -74,7 +74,7 @@
 
 @layer utilities {
   .text-gradient-purple {
-    background: linear-gradient(135deg, hsl(270 50% 55%), hsl(280 40% 70%), hsl(270 60% 65%));
+    background: linear-gradient(135deg, hsl(270, 59%, 27%), hsl(280, 33%, 23%), hsl(270 60% 65%));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;

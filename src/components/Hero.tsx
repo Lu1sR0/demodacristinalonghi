@@ -1,7 +1,6 @@
 import { motion } from "framer-motion";
 import { MessageCircle, ArrowDown } from "lucide-react";
 import heroAccent from "@/assets/hero-accent.jpg";
-import logo from "@/assets/logo.png";
 
 const Hero = () => {
   return (
